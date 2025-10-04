@@ -1,4 +1,4 @@
-## [Click here to visit the website](https://drpollylang.github.io/Portfolio/)
+## [Click here to visit the website](https://drpollylang.github.io/portfolio/)
 
 This is my personal portfolio website, first created and published 4 October 2025.
 
